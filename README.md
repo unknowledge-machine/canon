@@ -10,119 +10,122 @@
 
 ```
 canon/
-├── rfcs/        # 39 Request for Comments (RFC-0001 a RFC-0039)
-├── papers/      # 14 Papers académicos satíricos (Paper-001 a Paper-014)
-├── theorems/    # 7 Teoremas com "provas" (Theorem-001 a Theorem-007)
-├── Appendix.png # Ilustração central: a Máquina
-├── The_Knowledge_Machine.png # Capa conceitual
-└── Coffee_Raven.png        # O corvo da sátira burocrática
+├── rfcs/        # 39 Request for Comments (RFC-0001 to RFC-0039)
+├── papers/      # 14 Satirical academic papers (Paper-001 to Paper-014)
+├── theorems/    # 7 Theorems with "proofs" (Theorem-001 to Theorem-007)
+├── Appendix.png # Central illustration: The Machine
+├── The_Knowledge_Machine.png # Conceptual cover art
+└── Coffee_Raven.png        # The bureaucratic satire raven
 ```
 
 ---
 
 ## RFCs (Request for Comments)
 
-| ID | Título | Descrição |
+| ID | Title / Título | Description / Descrição |
 |---|---|---|
-| RFC-0001 | Hierarchical Omniscience Protocol | O executivo que sabe tudo sem ler nada |
-| RFC-0002 | Conway's Law Generalization | Estrutura organizacional = arquitetura de comunicação |
-| RFC-0003 | Epistemic Fragmentation Monitoring | Métricas para medir o que a organização não sabe que não sabe |
-| RFC-0004 | Decision Theater Specification | Encenação de decisões já tomadas |
-| RFC-0005 | Knowledge Gravity Framework | Como o poder curva a verdade |
-| RFC-0006 | Strategic Misalignment Detection | Detetar quando a estratégia e a execução se divorciaram |
-| RFC-0007 | Organizational Amnesia Prevention | Protocolos contra o esquecimento institucional |
-| RFC-0008 | Tacit Knowledge Extraction | Como extrair o que não se pode escrever |
-| RFC-0009 | Knowledge Hoarding Incentive | Por que guardamos saber como moeda de troca |
-| RFC-0010 | Epistemic Injustice Remediation | Corrigir injustiças de quem é ouvido |
-| RFC-0011 | Meeting Entropy Acceleration | Reuniões como geradoras de desordem |
-| RFC-0012 | Slide Deck Compression | PowerPoint como destruidor de nuance |
-| RFC-0013 | Jargon Inflation Index | Medir a inflação de buzzwords |
-| RFC-0014 | Consensus Theater Choreography | Coreografia do falso consenso |
-| RFC-0015 | Distributed Ignorance Management | Gerir o que ninguém sabe que ninguém sabe |
-| RFC-0016 | Institutional Memory Backup | Backup da memória que nunca existiu |
-| RFC-0017 | Coffee Break Protocol | O protocolo mais honesto da organização |
-| RFC-0018 | Watercooler Gossip Verification | Validação do canal informal |
-| RFC-0019 | Elevator Pitch Bandwidth | Largura de banda do pitch de elevador |
-| RFC-0020 | Lunch Table Seating Protocol | Quem almoça com quem dita o que se sabe |
-| RFC-0021 | Newsletter-Driven Development | Comunicação como substituto de execução |
-| RFC-0022 | Conference Coffee Break Protocol | Networking performativo |
-| RFC-0023 | Promotion Gate Protocol | Como a promoção filtra a verdade |
-| RFC-0024 | Trench Intelligence Protocol | Inteligência da linha da frente |
-| RFC-0025 | Succession Entropy Protocol | Sucessão como perda de conhecimento |
-| RFC-0026 | Wernham Hogg Protocol | Referência ao *The Office* — a sátira da sátira |
-| RFC-0027 | Cognitive Bias Quantification | Quantificar vieses para os ignorar melhor |
-| RFC-0028 | Mandatory Presence Enforcement | Presença física ≠ presença epistémica |
-| RFC-0029 | Epistemic Failure Mode Taxonomy | Taxonomia dos modos de falha do saber |
-| RFC-0030 | Epistemic Risk Assessment Protocol | Avaliar risco de não saber |
-| RFC-0031 | Narcissistic Supply Substitution | Narcisismo organizacional |
-| RFC-0032 | Proximity Theater Dismantling | Teatro de proximidade |
-| RFC-0033 | Narcissism Early Detection | Detecção precoce de narcisismo |
-| RFC-0035 | Executive Stealth Protocol | O executivo invisível |
-| RFC-0036 | Distributed Output Sovereignty | Soberania do output distribuído |
-| RFC-0037 | Goose Amplification Protocol | Amplificação do ruído |
-| RFC-0038 | Living Innovation Lab | Laboratório vivo de inovação |
-| RFC-0039 | Execution Governance Layer | Camada de governação de execução |
+| RFC-0001 | Hierarchical Omniscience Protocol | The executive who knows everything without reading anything / O executivo que sabe tudo sem ler nada |
+| RFC-0002 | Conway's Law Generalization | Organizational structure = communication architecture / Estrutura organizacional = arquitetura de comunicação |
+| RFC-0003 | Epistemic Fragmentation Monitoring | Metrics to measure what the organization doesn't know it doesn't know / Métricas para medir o que a organização não sabe que não sabe |
+| RFC-0004 | Decision Theater Specification | Staging decisions already made / Encenação de decisões já tomadas |
+| RFC-0005 | Knowledge Gravity Framework | How power bends truth / Como o poder curva a verdade |
+| RFC-0006 | Strategic Misalignment Detection | Detect when strategy and execution divorced / Detetar quando a estratégia e a execução se divorciaram |
+| RFC-0007 | Organizational Amnesia Prevention | Protocols against institutional forgetting / Protocolos contra o esquecimento institucional |
+| RFC-0008 | Tacit Knowledge Extraction | How to extract what cannot be written / Como extrair o que não se pode escrever |
+| RFC-0009 | Knowledge Hoarding Incentive | Why we hoard knowledge as currency / Por que guardamos saber como moeda de troca |
+| RFC-0010 | Epistemic Injustice Remediation | Correcting injustices of who gets heard / Corrigir injustiças de quem é ouvido |
+| RFC-0011 | Meeting Entropy Acceleration | Meetings as entropy generators / Reuniões como geradoras de desordem |
+| RFC-0012 | Slide Deck Compression | PowerPoint as nuance destroyer / PowerPoint como destruidor de nuance |
+| RFC-0013 | Jargon Inflation Index | Measuring buzzword inflation / Medir a inflação de buzzwords |
+| RFC-0014 | Consensus Theater Choreography | Choreography of false consensus / Coreografia do falso consenso |
+| RFC-0015 | Distributed Ignorance Management | Managing what nobody knows that nobody knows / Gerir o que ninguém sabe que ninguém sabe |
+| RFC-0016 | Institutional Memory Backup | Backup of memory that never existed / Backup da memória que nunca existiu |
+| RFC-0017 | Coffee Break Protocol | The most honest protocol in the organization / O protocolo mais honesto da organização |
+| RFC-0018 | Watercooler Gossip Verification | Validating the informal channel / Validação do canal informal |
+| RFC-0019 | Elevator Pitch Bandwidth | Bandwidth of the elevator pitch / Largura de banda do pitch de elevador |
+| RFC-0020 | Lunch Table Seating Protocol | Who lunches with whom dictates what is known / Quem almoça com quem dita o que se sabe |
+| RFC-0021 | Newsletter-Driven Development | Communication as substitute for execution / Comunicação como substituto de execução |
+| RFC-0022 | Conference Coffee Break Protocol | Performative networking / Networking performativo |
+| RFC-0023 | Promotion Gate Protocol | How promotion filters truth / Como a promoção filtra a verdade |
+| RFC-0024 | Trench Intelligence Protocol | Front-line intelligence / Inteligência da linha da frente |
+| RFC-0025 | Succession Entropy Protocol | Succession as knowledge loss / Sucessão como perda de conhecimento |
+| RFC-0026 | Wernham Hogg Protocol | Reference to *The Office* — satire of satire / Referência ao *The Office* — a sátira da sátira |
+| RFC-0027 | Cognitive Bias Quantification | Quantifying biases to better ignore them / Quantificar vieses para os ignorar melhor |
+| RFC-0028 | Mandatory Presence Enforcement | Physical presence ≠ epistemic presence / Presença física ≠ presença epistémica |
+| RFC-0029 | Epistemic Failure Mode Taxonomy | Taxonomy of knowledge failure modes / Taxonomia dos modos de falha do saber |
+| RFC-0030 | Epistemic Risk Assessment Protocol | Assessing risk of not knowing / Avaliar risco de não saber |
+| RFC-0031 | Narcissistic Supply Substitution | Organizational narcissism / Narcisismo organizacional |
+| RFC-0032 | Proximity Theater Dismantling | Dismantling proximity theater / Teatro de proximidade |
+| RFC-0033 | Narcissism Early Detection | Early detection of narcissism / Detecção precoce de narcisismo |
+| RFC-0035 | Executive Stealth Protocol | The invisible executive / O executivo invisível |
+| RFC-0036 | Distributed Output Sovereignty | Sovereignty of distributed output / Soberania do output distribuído |
+| RFC-0037 | Goose Amplification Protocol | Noise amplification / Amplificação do ruído |
+| RFC-0038 | Living Innovation Lab | Living innovation laboratory / Laboratório vivo de inovação |
+| RFC-0039 | Execution Governance Layer | Execution governance layer / Camada de governação de execução |
 
-> **Nota:** RFC-0034 foi deliberadamente omitido (a organização perdeu-o).
+> **Nota / Note:** RFC-0034 was deliberately omitted (the organization lost it) / RFC-0034 foi deliberadamente omitido (a organização perdeu-o).
 
 ---
 
-## Papers Académicos Satíricos
+## Satirical Academic Papers / Papers Académicos Satíricos
 
-| ID | Título |
+| ID | Title / Título |
 |---|---|
-| Paper-001 | Weak Ties in Digital Organizations |
-| Paper-002 | Psychological Safety as Performative Ritual |
-| Paper-003 | Absorptive Capacity: The Sponge That Leaks |
-| Paper-004 | Information Asymmetry in Agile Transformations |
-| Paper-005 | Epistemic Injustice in Decision Making |
-| Paper-006 | Coffee Machine Ethnography |
-| Paper-007 | Committee Entropy Analysis |
-| Paper-008 | Tacit Knowledge in Remote Work |
-| Paper-009 | Organizational Amnesia |
-| Paper-010 | Formal Theory of Organizational Epistemology |
-| Paper-011 | Failure Modes Compendium |
-| Paper-012 | Narcissism-Proximity Control: 500 CEO Study |
-| Paper-013 | Replication Study (That Failed to Replicate) |
-| Paper-014 | Adaptive Space: The Missing Variable |
+| Paper-001 | Weak Ties in Digital Organizations / Laços Fracos em Organizações Digitais |
+| Paper-002 | Psychological Safety as Performative Ritual / Segurança Psicológica como Ritual Performativo |
+| Paper-003 | Absorptive Capacity: The Sponge That Leaks / Capacidade Absortiva: A Esponja Que Vaza |
+| Paper-004 | Information Asymmetry in Agile Transformations / Assimetria de Informação em Transformações Ágeis |
+| Paper-005 | Epistemic Injustice in Decision Making / Injustiça Epistémica na Tomada de Decisão |
+| Paper-006 | Coffee Machine Ethnography / Etnografia da Máquina de Café |
+| Paper-007 | Committee Entropy Analysis / Análise de Entropia de Comissão |
+| Paper-008 | Tacit Knowledge in Remote Work / Conhecimento Tácito no Trabalho Remoto |
+| Paper-009 | Organizational Amnesia / Amnésia Organizacional |
+| Paper-010 | Formal Theory of Organizational Epistemology / Teoria Formal da Epistemologia Organizacional |
+| Paper-011 | Failure Modes Compendium / Compêndio de Modos de Falha |
+| Paper-012 | Narcissism-Proximity Control: 500 CEO Study / Controlo Narcisismo-Proximidade: Estudo 500 CEOs |
+| Paper-013 | Replication Study (That Failed to Replicate) / Estudo de Replicação (Que Falhou em Replicar) |
+| Paper-014 | Adaptive Space: The Missing Variable / Espaço Adaptativo: A Variável Em Falta |
 
 ---
 
-## Teoremas
+## Theorems / Teoremas
 
-| ID | Título |
+| ID | Title / Título |
 |---|---|
-| Theorem-001 | Coffee Machine Theorem |
-| Theorem-002 | Committee Entropy Theorem |
-| Theorem-003 | Knowledge Gravity Theorem |
-| Theorem-004 | Epistemic Fragmentation Theorem |
-| Theorem-005 | Tacit Knowledge Theorem |
-| Theorem-006 | Epistemic Closure Theorem |
-| Theorem-007 | Supply Conservation Theorem |
+| Theorem-001 | Coffee Machine Theorem / Teorema da Máquina de Café |
+| Theorem-002 | Committee Entropy Theorem / Teorema da Entropia de Comissão |
+| Theorem-003 | Knowledge Gravity Theorem / Teorema da Gravidade do Conhecimento |
+| Theorem-004 | Epistemic Fragmentation Theorem / Teorema da Fragmentação Epistémica |
+| Theorem-005 | Tacit Knowledge Theorem / Teorema do Conhecimento Tácito |
+| Theorem-006 | Epistemic Closure Theorem / Teorema do Fecho Epistémico |
+| Theorem-007 | Supply Conservation Theorem / Teorema da Conservação do Fornecimento |
 
 ---
 
-## Ilustrações
+## Illustrations / Ilustrações
 
-- **Appendix.png** — A Máquina central (diagrama principal do apêndice)
-- **The_Knowledge_Machine.png** — Conceito visual da capa
-- **Coffee_Raven.png** — O corvo observador (sátira burocrática)
+- **Appendix.png** — The central Machine (main appendix diagram) / A Máquina central (diagrama principal do apêndice)
+- **The_Knowledge_Machine.png** — Conceptual cover art / Conceito visual da capa
+- **Coffee_Raven.png** — The observer raven (bureaucratic satire) / O corvo observador (sátira burocrática)
 
 ---
 
-## Licença / License
+## License / Licença
+
+This material is satirical fiction. All rights reserved by the book author.  
+Do not use in production, do not cite in real papers, do not present in audits.  
 
 Este material é obra de ficção satírica. Todos os direitos reservados ao autor do livro.  
 Não use em produção, não cite em papers reais, não apresente em auditorias.
 
 ---
 
-## Livro / Book
+## Book / Livro
 
 *The Unknowledge Machine: Why Organizations Produce Intelligence—and Accidentally Destroy It*  
-Autor: Rodolfo Matos (como universo narrativo *unknowledge-machine*)  
-Submissão: U.Porto Press
+Author: Rodolfo Matos (as narrative universe *unknowledge-machine*)  
+Autor: Rodolfo Matos (como universo narrativo *unknowledge-machine*)
 
 ---
 
-**Lembrete final:** Se chegou aqui sem ler o aviso do topo — leia-o agora. Isto é sátira. A única coisa real é o padrão organizacional que a sátira expõe.
+**Final reminder / Lembrete final:** If you got here without reading the top warning — read it now. This is satire. The only real thing is the organizational pattern the satire exposes. / Se chegou aqui sem ler o aviso do topo — leia-o agora. Isto é sátira. A única coisa real é o padrão organizacional que a sátira expõe.
