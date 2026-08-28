@@ -1,5 +1,7 @@
 # The Unknowledge Machine — Canon Repository
 
+![Appendix](Appendix.png)
+
 > ⚠️ **AVISO IMPORTANTE / IMPORTANT WARNING**  
 > **Este repositório contém material de ficção satírica que acompanha o livro *The Unknowledge Machine: Why Organizations Produce Intelligence—and Accidentally Destroy It*. Nenhum dos estudos, papers, RFCs, teoremas, dados ou protocolos aqui contidos existe na realidade. São artefactos narrativos criados para efeito literário e satírico. Não cite, não implemente, não confie.**  
 > **This repository contains satirical fiction material accompanying the book *The Unknowledge Machine: Why Organizations Produce Intelligence—and Accidentally Destroy It*. None of the studies, papers, RFCs, theorems, data, or protocols herein exist in reality. They are narrative artefacts created for literary and satirical effect. Do not cite, do not implement, do not trust.**
